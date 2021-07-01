@@ -6,7 +6,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-- 🔭 I’m currently working with React/React-Native/Nodejs projects.
+🔭 I’m currently working with React/React-Native/Nodejs projects.
 
 ## Personal Project
 - Now my personal project is a mobile application to my japanase school. (Like a Dicionary)
