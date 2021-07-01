@@ -11,10 +11,10 @@
 ## Personal Project
 - Now my personal project is a mobile application to my japanase school. (Like a Dicionary)
 
-<!--
-## Statistic
+
+## Statistics
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kujikeo)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 ## Social Media
 <a href="https://www.linkedin.com/in/guilherme-machado-31839715b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
