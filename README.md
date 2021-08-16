@@ -1,6 +1,6 @@
 # Welcome!
 
-## I'm Guilherme Machado (But you can call me by (Kujikeo rs)!
+## I'm Guilherme Machado (Kujikeo rs)!
 
 :computer: I'm Front-End and Back-End Developer!
 
