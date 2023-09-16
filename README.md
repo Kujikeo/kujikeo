@@ -8,9 +8,6 @@
 
 🔭 I’m currently working with React/React-Native/Nodejs projects.
 
-## Personal Project
-- Now my personal project is a mobile application to my japanase school. (Like a Dicionary)
-
 <!--
 ## Statistics
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kujikeo)](https://github.com/anuraghazra/github-readme-stats)
